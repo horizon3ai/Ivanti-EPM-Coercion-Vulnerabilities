@@ -2,8 +2,8 @@
 Proof of concept exploits for Ivanti EPM CVE-2024-13159 and others which allows for unauthenticated coercion of the Ivanti EPM machine credential for use in relay attacks.
 
 ## Blog Post
-Root cause and indicators of compromise here:
-[https://www.horizon3.ai/attack-research/ivanti-epm-coercion-vulnerabilities/](https://www.horizon3.ai/attack-research/ivanti-epm-coercion-vulnerabilities/)
+Deep-dive analysis here:
+[https://www.horizon3.ai/attack-research/attack-blogs/ivanti-endpoint-manager-multiple-credential-coercion-vulnerabilities/](https://www.horizon3.ai/attack-research/attack-blogs/ivanti-endpoint-manager-multiple-credential-coercion-vulnerabilities/)
 
 ## Usage
 ```
